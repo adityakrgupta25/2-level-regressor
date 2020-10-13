@@ -1,4 +1,4 @@
-# Encoding known prior class-distribution information into the prediction models by use of ensembles
+# Ensemble model for taking into account class distribution for imbalanced dataset
 
 The project was developed as a part of the national-level data science challenge at Phillips HackAbout and judged in the top 5.
 Proposed a 2-level combination of classifier and regression neural network for imbalanced datasets, wherein samples of certain class outnumber the sample of other class.
